@@ -1,7 +1,6 @@
 ---
 title: Hello Forest Test Page
 date: 2025-10-07 08:30:00 -0700
-author: Tree
 pin: true
 math: true
 categories: []
