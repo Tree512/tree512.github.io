@@ -4,5 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+This blog is mainly for sharing my CTF solutions, lecture notes, and any topics I'm interested in.
+
+Includes, but is not limited to:
+- CTF writeups
+- Project reports
+- Lecture notes
+- Vulnerability analysis
+- Math
