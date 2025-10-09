@@ -1,10 +1,10 @@
 ---
 title: Hello Forest Test Page
+description: Just for testing some features
 date: 2025-10-07 08:30:00 -0700
-pin: true
 math: true
-categories: []
-tags: [test]
+categories: [Test Page]
+tags: []
 ---
 
 ## John 3:16
