@@ -1,0 +1,87 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+
+@font-face {
+  font-family: 'DejaVuSansMNerdFontMono';
+  src: url('/assets/fonts/DejaVuSansMNerdFontMono-Regular.woff2') format('woff2'),
+       url('/assets/fonts/DejaVuSansMNerdFontMono-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;  // Improves loading behavior
+}
+
+.highlight pre,
+.highlight code {
+  font-size: 1rem;
+  font-family: 'DejaVuSansMNerdFontMono', monospace !important;
+}
+
+.highlight {
+  background-color: #000 !important;
+}
+
+.code-header {
+  background-color: #000 !important;
+}
+
+.highlighter-rouge {
+  color: #EFEFEF;
+  background-color: #000 !important;
+  font-family: 'DejaVuSansMNerdFontMono', monospace !important;
+}
+
+h1 {font-size: 2.3rem;}
+h2 {font-size: 2rem;}
+h3 {font-size: 1.8rem;}
+h4 {font-size: 1.6rem;}
+
+.content,
+.content li,
+.content p {
+  font-size: 20px;
+  color: #EEEEEE !important;
+}
+
+.content,
+.content h1,h2,h3,h4,h5 {
+  color: #CDCDCD !important;
+}
+
+@media (min-width: 1650px) {
+  #main-wrapper >
+  .container {
+    max-width: 1520px !important;
+  }
+  .col-xl-9 {
+    width: 80%;
+  }
+  .col-xl-3 {
+    width: 20%
+  }
+}
+
+.icon-border {
+  display: none !important;
+}
+
+#mode-toggle {
+  display: none !important;
+}
+
+#sidebar .site-title {
+  color: #FFF;
+}
+
+#post-list .card-title {
+  color: #FFF;
+}
