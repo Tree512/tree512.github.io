@@ -53,9 +53,24 @@ h4 {font-size: 1.6rem;}
 }
 
 .content,
-.content h1,h2,h3,h4,h5 {
+.content h1,h4,h5 {
   color: #CDCDCD !important;
 }
+
+.content {
+  h2 {
+    color: #ec3117 !important;
+  }
+
+  h3 {
+    color: #f96b49 !important;
+  }
+
+  h4 {
+    color: #8ABDFF !important;
+  }
+}
+
 
 @media (min-width: 1650px) {
   #main-wrapper >

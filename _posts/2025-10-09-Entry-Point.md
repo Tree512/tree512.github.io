@@ -9,21 +9,21 @@ tags: []
 
 ## CTF Writeups
 
-### Binary Exploitation
+### PicoCTF
+- 2025:&nbsp; \[[PWN]({% post_url 2025-10-09-PicoCTF-2025-Binary-Exploitation %})\]&nbsp; \[RE\]
 
-### Reverse Engineering
+### Others
+- CUcybersec CTF:&nbsp; \[[PWN]({% post_url 2025-10-28-CUcybersecCTF-2025-Binary-Exploitation %})\]&nbsp; 
+
 
 ## Tools and Scripts
 
 ### Tools
+- Ghidra
+- pwntools
+- pwndbg
+- angr
 
 ### Scripts
-- Pwninit Template
-
-## Lecture Notes
-
-## Projects
-
-## Test
-- [Test link]({% post_url 2025-10-07-Hello-Forest %})
-
+- [Pwninit Template]({% post_url 2025-10-29-Pwninit-Template %})
+- libc from dockerfile
