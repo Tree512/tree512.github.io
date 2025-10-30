@@ -10,20 +10,17 @@ tags: []
 ## CTF Writeups
 
 ### PicoCTF
-- 2025:&nbsp; \[[PWN]({% post_url 2025-10-09-PicoCTF-2025-Binary-Exploitation %})\]&nbsp; \[RE\]
+- 2025:&nbsp; \[[**PWN**]({% post_url 2025-10-09-PicoCTF-2025-Binary-Exploitation %})\]&nbsp; \[**RE**\]
 
 ### Others
-- CUcybersec CTF:&nbsp; \[[PWN]({% post_url 2025-10-28-CUcybersecCTF-2025-Binary-Exploitation %})\]&nbsp; 
+- CUcybersec CTF:&nbsp; \[[**PWN**]({% post_url 2025-10-28-CUcybersecCTF-2025-Binary-Exploitation %})\]&nbsp; 
 
 
 ## Tools and Scripts
 
 ### Tools
-- Ghidra
-- pwntools
-- pwndbg
-- angr
+- [**Forensics**]({% post_url 2025-10-30-CTF-Forensics-Tool-List %})
+- [**Binary Exploitation**]({% post_url 2025-10-30-CTF-Binary-Exploitation-Tool-List %})
 
 ### Scripts
-- [Pwninit Template]({% post_url 2025-10-29-Pwninit-Template %})
-- libc from dockerfile
+- [**Pwninit Template**]({% post_url 2025-10-29-Pwninit-Template %})
