@@ -10,7 +10,7 @@ tags: []
 ## CTF Writeups
 
 ### PicoCTF
-- 2025:&nbsp; \[[**PWN**]({% post_url 2025-10-09-PicoCTF-2025-Binary-Exploitation %})\]&nbsp; \[**RE**\]
+- 2025:&nbsp; \[[**PWN**]()\]&nbsp; \[**RE**\]&nbsp;
 
 ### Others
 - CUcybersec CTF:&nbsp; \[[**PWN**]({% post_url 2025-10-28-CUcybersecCTF-2025-Binary-Exploitation %})\]&nbsp; 
