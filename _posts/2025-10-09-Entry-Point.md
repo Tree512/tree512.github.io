@@ -9,8 +9,8 @@ tags: []
 
 ## CTF Writeups
 
-### PicoCTF
-- 2025:&nbsp; \[[**PWN**]()\]&nbsp; \[**RE**\]&nbsp;
+### Legacy
+- [**Tree's Daily Journal**](https://trees-daily-journal.gitbook.io/trees-daily-journal/ctf-writeups) (Slow)
 
 ### Others
 - CUcybersec CTF:&nbsp; \[[**PWN**]({% post_url 2025-10-28-CUcybersecCTF-2025-Binary-Exploitation %})\]&nbsp; 
